@@ -231,7 +231,9 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	
 	38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
 	
-	40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró mediante su clasificación de potencia y voltaje.
+	40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró
+	
+	mediante su clasificación de potencia y voltaje.
 	
 	
 	
