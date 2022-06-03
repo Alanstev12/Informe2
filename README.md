@@ -36,12 +36,12 @@
 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
         2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
-             ![image](https://user-images.githubusercontent.com/105374427/171944469-c0a94915-1da0-46fa-9d97-799b8ec0f5a2.png)
+     ![image](https://user-images.githubusercontent.com/105374427/171944469-c0a94915-1da0-46fa-9d97-799b8ec0f5a2.png)
 
         
         4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
               
-              ![image](https://user-images.githubusercontent.com/105374427/171944765-0edac881-2d3a-4e03-9d7c-a9a76bdc0f8a.png)
+     ![image](https://user-images.githubusercontent.com/105374427/171944765-0edac881-2d3a-4e03-9d7c-a9a76bdc0f8a.png)
 
 
         6.En cierto circuito, I  5 mA cuando V  1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
@@ -71,9 +71,9 @@
           
           20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
           
-          *22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+     *22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
           
-          ![image](https://user-images.githubusercontent.com/105374427/171941794-273d6d7e-2ed0-4daf-a711-81ec6705093b.png)
+   ![image](https://user-images.githubusercontent.com/105374427/171941794-273d6d7e-2ed0-4daf-a711-81ec6705093b.png)
 
 
          24. Calcule el voltaje para cada valor de I y R:
