@@ -178,40 +178,73 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 	2. Demuestre que hay 3.6  106 joules en un kilowatt-hora.
 	
+![image](https://user-images.githubusercontent.com/105374427/171965404-97a43c56-8f31-4f5e-afb2-e0e7377444dc.png)
+
 	4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
 	
+![image](https://user-images.githubusercontent.com/105374427/171965431-95a37841-9de6-4602-89a6-6b0e3370632b.png)
+
 	6. Convierta las siguientes cantidades en kilowatts:
 	(a) 1000 W (b) 3750 W (c) 160 W (d) 50,000 W
 
+![image](https://user-images.githubusercontent.com/105374427/171965444-ef42b311-9f37-4689-8532-070f06e20e59.png)
+	
 	8. Convierta las siguientes cantidades en miliwatts:
 	(a) 1 W (b) 0.4 W (c) 0.002 W (d) 0.0125 W
+	
+![image](https://user-images.githubusercontent.com/105374427/171965453-96d84f33-fb4e-48e2-a220-8faeacd9bf98.png)
+
 	
 	10. Convierta las siguientes cantidades en watts:
 	(a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000
 	
+![image](https://user-images.githubusercontent.com/105374427/171965467-2a234b62-08c3-4cfb-8b38-c01ffe25c2d6.png)
+	
+
 	*12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
 	kilowatts-hora de energía consume?
 	
-	
+![image](https://user-images.githubusercontent.com/105374427/171965476-130a0df3-d977-47cf-87d2-b651dadf7bc4.png)
+
+
 	14. Convierta 5  106 watts-minutos en kWh.
 	
-	
+
+![image](https://user-images.githubusercontent.com/105374427/171965486-07eb0246-ff01-49d0-907c-3f034f042ca1.png)
+
+
 	16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir
 	25 J?
 	
 	
+![image](https://user-images.githubusercontent.com/105374427/171965500-95d8ad8e-b5fe-4d60-857e-15d8a9c0892d.png)
+
+	
 	18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+	
+![image](https://user-images.githubusercontent.com/105374427/171965534-39753516-bdcb-4dbc-b559-a3bff5053f5d.png)
+
 	
 	20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kÆ?
 	
+![image](https://user-images.githubusercontent.com/105374427/171965553-1a41e821-a351-4cbe-bfe2-5f37e2d2c27b.png)
+
 	22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
 	
+![image](https://user-images.githubusercontent.com/105374427/171965566-0f645f39-e15f-42f1-8730-721734b19762.png)
+
 	24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms de-
 	be ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
 	
+![image](https://user-images.githubusercontent.com/105374427/171965577-c4653efc-930e-4380-ac82-c3cf14508a55.png)
+	
+
 	26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
 	de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
 	que dispone de resistores en todas las clasificaciones de potencia estándar.
+	
+![image](https://user-images.githubusercontent.com/105374427/171965590-5c5b8762-9b9f-4e73-a698-30498c37cc8e.png)
+	
 	
 	28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extre-
 	mos del resistor.
@@ -222,18 +255,25 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	
 	10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 	
+![image](https://user-images.githubusercontent.com/105374427/171965617-2c2ce097-8c78-4982-9d02-e47deb70c346.png)
+
+	
 	32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes hora?
+	
+![image](https://user-images.githubusercontent.com/105374427/171965634-6d953eca-5b42-4901-8f1a-92dec68e08bd.png)
+
 	
 	34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
 	
 	
+	
+![image](https://user-images.githubusercontent.com/105374427/171965645-b7733477-9732-49de-ba41-59c38d3ae74e.png)
+
+	
 	36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 	
-	38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
-	
-	40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró
-	
-	mediante su clasificación de potencia y voltaje.
+![image](https://user-images.githubusercontent.com/105374427/171965655-767efb1c-417c-47eb-8f9f-b7492ac4699a.png)
+
 	
 	
 	
