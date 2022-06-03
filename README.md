@@ -115,7 +115,12 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
           V=50V,I=5
           V=5.5,I=10
           V=150,I=0.5
-          
+  ![image](https://user-images.githubusercontent.com/105374427/171960115-787a1269-7ffd-460a-a843-3fbb93e9f666.png) ![image](https://user-images.githubusercontent.com/105374427/171960142-63ccc8fb-f1a8-4381-bcc8-0c6687730791.png) ![image](https://user-images.githubusercontent.com/105374427/171960167-a25eac58-b91e-4558-acbd-8151e88943e0.png)
+![image](https://user-images.githubusercontent.com/105374427/171960177-4a4e53b1-e3e8-40b1-aeef-d8c27ee1257f.png)
+![image](https://user-images.githubusercontent.com/105374427/171960185-59532554-5e4d-46d0-89ed-694de6e5f8ff.png)
+
+
+
           30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
           
           
