@@ -218,7 +218,9 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	
 ![image](https://user-images.githubusercontent.com/105374427/171962602-5f0838c4-8615-4124-8e83-0502f4bd9e99.png)
 
-	30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horasen una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+	30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horasen una carga de
+	
+	10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
 	
 	32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes hora?
 	
