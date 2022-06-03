@@ -272,8 +272,7 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	
 	36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 	
-![image](https://user-images.githubusercontent.com/105374427/171965655-767efb1c-417c-47eb-8f9f-b7492ac4699a.png)
-
+![image](https://user-images.githubusercontent.com/105374427/171965877-97e2b814-c10e-4fcc-b509-98d092ad358b.png)
 	
 	
 	
