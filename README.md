@@ -132,7 +132,8 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
 	26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
 	
-![image](https://user-images.githubusercontent.com/105374427/171961199-d465165f-f41b-465f-bacd-5da433323936.png) ![image](https://user-images.githubusercontent.com/105374427/171961234-1d17ff7b-1eee-46fd-909f-ee0088da29ec.png)
+![image](https://user-images.githubusercontent.com/105374427/171961199-d465165f-f41b-465f-bacd-5da433323936.png) ![image](https://user-images.githubusercontent.com/105374427/171961509-c5fdb71f-39d7-4136-88b7-3f1817ae9f64.png)
+
 ![image](https://user-images.githubusercontent.com/105374427/171961247-30151937-6d8b-44f9-ac85-0b558e0ea579.png)
 
 
@@ -153,18 +154,85 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 
           30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
           
+![image](https://user-images.githubusercontent.com/105374427/171961524-08c80838-24d9-425e-8556-b9c4707b82f7.png)
+
           
           32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un
 	  
 	  amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
           
+![image](https://user-images.githubusercontent.com/105374427/171961546-d8d4addb-f253-468f-b00a-58f612be8aa0.png)
+
+	  
           *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva
 	  
 	  mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el 
 	  
 	  fusible? Suponga una resistencia de la lámpara de 15
-          
+   ![image](https://user-images.githubusercontent.com/105374427/171961571-02271c5e-9d16-4537-97aa-b73c79252a85.png)
+![image](https://user-images.githubusercontent.com/105374427/171961603-657e1d60-3f66-434b-b43b-813787a30a1d.png)
+![image](https://user-images.githubusercontent.com/105374427/171961617-f311fa3b-770f-4040-a67b-d10e53da0877.png)
+	
+	
+## CAPITULO 4
 
+	2. Demuestre que hay 3.6  106 joules en un kilowatt-hora.
+	
+	4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+	
+	6. Convierta las siguientes cantidades en kilowatts:
+	(a) 1000 W (b) 3750 W (c) 160 W (d) 50,000 W
+
+	8. Convierta las siguientes cantidades en miliwatts:
+	(a) 1 W (b) 0.4 W (c) 0.002 W (d) 0.0125 W
+	
+	10. Convierta las siguientes cantidades en watts:
+	(a) 1.5 kW (b) 0.5 MW (c) 350 mW (d) 9000
+	
+	*12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos
+	kilowatts-hora de energía consume?
+	
+	
+	14. Convierta 5  106 watts-minutos en kWh.
+	
+	
+	16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir
+	25 J?
+	
+	
+	18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+	
+	20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kÆ?
+	
+	22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+	
+	24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms de-
+	be ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+	
+	26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor
+	de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga
+	que dispone de resistores en todas las clasificaciones de potencia estándar.
+	
+	28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extre-
+	mos del resistor.
+	
+![image](https://user-images.githubusercontent.com/105374427/171962602-5f0838c4-8615-4124-8e83-0502f4bd9e99.png)
+
+	30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horasen una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+	
+	32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes hora?
+	
+	34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+	
+	
+	36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+	
+	38. Abra el archivo P04-38 y determine la corriente, el voltaje y la resistencia. Con los valores medidos, calcule la potencia.
+	
+	40. Abra el archivo P04-40. Mida la corriente en la lámpara, y determine si el valor concuerda con el que encontró mediante su clasificación de potencia y voltaje.
+	
+	
+	
 5. VIDEO
 6. CONCLUSIONES
 7. BIBLIOGRAFÍA
