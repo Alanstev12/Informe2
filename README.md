@@ -80,11 +80,22 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	       d) V=1k , R=2,2k
          e) V=66k,R=10M
          
+![image](https://user-images.githubusercontent.com/105374427/171960115-787a1269-7ffd-460a-a843-3fbb93e9f666.png) ![image](https://user-images.githubusercontent.com/105374427/171960142-63ccc8fb-f1a8-4381-bcc8-0c6687730791.png) ![image](https://user-images.githubusercontent.com/105374427/171960167-a25eac58-b91e-4558-acbd-8151e88943e0.png)
+![image](https://user-images.githubusercontent.com/105374427/171960177-4a4e53b1-e3e8-40b1-aeef-d8c27ee1257f.png)
+![image](https://user-images.githubusercontent.com/105374427/171960185-59532554-5e4d-46d0-89ed-694de6e5f8ff.png)
+	
 	
          18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
           
+![image](https://user-images.githubusercontent.com/105374427/171960319-b8edfc03-5c68-4649-a6c0-2001a9fc3725.png)
+
+	  
           20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
           
+	  
+	  
+![image](https://user-images.githubusercontent.com/105374427/171960358-ae80b743-0852-40a6-8af1-21396f259563.png)
+
        *22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a
        
        un elemento calentador. Cuando el reóstato se ajusta a un valor de 8  o menos, el elemento calentador puede quemarse.
@@ -97,6 +108,7 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
           
    ![image](https://user-images.githubusercontent.com/105374427/171941794-273d6d7e-2ed0-4daf-a711-81ec6705093b.png)
 
+![image](https://user-images.githubusercontent.com/105374427/171960404-a003fe2f-ea2c-4ddb-b74f-1b340e1ce1dd.png)
 
          24. Calcule el voltaje para cada valor de I y R:
           a) I = 1 mA, R = 10 Æ
@@ -109,15 +121,23 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
           h) I=75uA,R=47
 ![image](https://user-images.githubusercontent.com/105374427/171942629-7163dbef-3afa-43ed-8b9b-4971284edc52.png)
 
+![image](https://user-images.githubusercontent.com/105374427/171960457-9acf6385-b21a-457f-b317-2d16a5bae5cb.png)
+![image](https://user-images.githubusercontent.com/105374427/171960466-91477f61-f435-4b6a-87f5-7d726a488d52.png)
+![image](https://user-images.githubusercontent.com/105374427/171960479-6ffb66aa-2ba8-4d57-8f0a-1d46e02630e2.png)
+![image](https://user-images.githubusercontent.com/105374427/171960500-82ab1435-634d-4765-892b-ec1d3400fa7d.png)
+![image](https://user-images.githubusercontent.com/105374427/171960512-b22b3004-428c-478d-81ae-d72d0b2e428d.png)
+![image](https://user-images.githubusercontent.com/105374427/171960521-7d31a593-bcab-4cb5-ae9c-18068f7cd39b.png)
+![image](https://user-images.githubusercontent.com/105374427/171960536-97ddf5dc-c72f-4c06-868c-19aa1a1d3958.png)
+![image](https://user-images.githubusercontent.com/105374427/171960541-ded87474-96c1-4fad-9bfd-58fd648b89da.png)
+
+
           28. Encuentre la resistencia de un reóstato para cada valor de V e I:
           V=10,I=2
           V=90,I=45
           V=50V,I=5
           V=5.5,I=10
           V=150,I=0.5
-  ![image](https://user-images.githubusercontent.com/105374427/171960115-787a1269-7ffd-460a-a843-3fbb93e9f666.png) ![image](https://user-images.githubusercontent.com/105374427/171960142-63ccc8fb-f1a8-4381-bcc8-0c6687730791.png) ![image](https://user-images.githubusercontent.com/105374427/171960167-a25eac58-b91e-4558-acbd-8151e88943e0.png)
-![image](https://user-images.githubusercontent.com/105374427/171960177-4a4e53b1-e3e8-40b1-aeef-d8c27ee1257f.png)
-![image](https://user-images.githubusercontent.com/105374427/171960185-59532554-5e4d-46d0-89ed-694de6e5f8ff.png)
+  
 
 
 
