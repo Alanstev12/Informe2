@@ -130,6 +130,11 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 ![image](https://user-images.githubusercontent.com/105374427/171960536-97ddf5dc-c72f-4c06-868c-19aa1a1d3958.png)
 ![image](https://user-images.githubusercontent.com/105374427/171960541-ded87474-96c1-4fad-9bfd-58fd648b89da.png)
 
+	26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
+	
+![image](https://user-images.githubusercontent.com/105374427/171961199-d465165f-f41b-465f-bacd-5da433323936.png) ![image](https://user-images.githubusercontent.com/105374427/171961234-1d17ff7b-1eee-46fd-909f-ee0088da29ec.png)
+![image](https://user-images.githubusercontent.com/105374427/171961247-30151937-6d8b-44f9-ac85-0b558e0ea579.png)
+
 
           28. Encuentre la resistencia de un reóstato para cada valor de V e I:
           V=10,I=2
@@ -138,6 +143,11 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
           V=5.5,I=10
           V=150,I=0.5
   
+![image](https://user-images.githubusercontent.com/105374427/171961337-f7d90d1e-7f6c-4ef5-ad63-a00724db89c5.png)
+![image](https://user-images.githubusercontent.com/105374427/171961368-42c3ed90-0adb-4378-bb2d-7e94fbdc3c8b.png)
+![image](https://user-images.githubusercontent.com/105374427/171961371-112265b8-29dd-4cef-b611-9a9c88c055b7.png)
+![image](https://user-images.githubusercontent.com/105374427/171961373-7f065e45-e944-4075-b4b7-79e9fb0773c8.png)
+![image](https://user-images.githubusercontent.com/105374427/171961374-1cf0cffe-5bfe-4b5b-973c-ad8d5b6b2a6c.png)
 
 
 
