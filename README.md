@@ -36,13 +36,11 @@
 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
         2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
-     ![image](https://user-images.githubusercontent.com/105374427/171944469-c0a94915-1da0-46fa-9d97-799b8ec0f5a2.png)
-
+![image](https://user-images.githubusercontent.com/105374427/171968091-cf0012ca-68cf-445d-bb1c-fcce09e32a12.png)
         
         4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
               
-     ![image](https://user-images.githubusercontent.com/105374427/171944765-0edac881-2d3a-4e03-9d7c-a9a76bdc0f8a.png)
-
+![image](https://user-images.githubusercontent.com/105374427/171968097-12cbcad0-0ecc-4807-ae90-2d47d34e4129.png)
 
         6.En cierto circuito, I  5 mA cuando V  1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
           a) V=1,5v
@@ -50,22 +48,24 @@
           c) V=3v
           d) V=4v
           e) V=10v
-![image](https://user-images.githubusercontent.com/105374427/171946656-6327c63a-fef3-4d9b-83c2-de062606b164.png)
-  
+![image](https://user-images.githubusercontent.com/105374427/171968218-28a5c9d0-0315-4123-b877-f27cb92b98a0.png)
+![image](https://user-images.githubusercontent.com/105374427/171968220-3e040870-9e38-4db8-867c-914cdc0d4b3f.png)
+![image](https://user-images.githubusercontent.com/105374427/171968223-c1642522-f5b4-4a79-8ede-a40721c230b4.png)
+![image](https://user-images.githubusercontent.com/105374427/171968224-1a392996-3256-48b4-b3c4-7213570ab942.png)
+![image](https://user-images.githubusercontent.com/105374427/171968226-a2ee9b54-df81-45b6-860d-4c9dabeb9f92.png)
+
 	  
         8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
- ![image](https://user-images.githubusercontent.com/105374427/171947579-d531bb49-1394-4bc8-b0b5-2c02af85cab4.png)
-
+![image](https://user-images.githubusercontent.com/105374427/171968260-098b8e2c-cfb1-4af4-84a5-b568be71958f.png)
 
         10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
         
    ![image](https://user-images.githubusercontent.com/105374427/171940769-77f4dac0-3bcb-40d3-8891-5951abe1a98a.png)
-   ![image](https://user-images.githubusercontent.com/105374427/171947951-3c166a6d-5172-496f-98f0-70827111dcd1.png)
-
-         *12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+![image](https://user-images.githubusercontent.com/105374427/171968288-c3d4d228-5708-4fc0-8db1-4bc72e82c1b1.png)
+        
+	*12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
          
-![image](https://user-images.githubusercontent.com/105374427/171948000-7e2710fa-1b5d-4d6b-a054-4674abb7d15b.png)
-
+![image](https://user-images.githubusercontent.com/105374427/171968309-e5f1b06d-e1b4-4711-99f2-62b5ad0c6aa1.png)
 
 	 
          14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
