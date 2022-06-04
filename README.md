@@ -1,7 +1,7 @@
-#### InformeTarea Cap3-4
+## InformeTarea Cap3-4
 
 
-## 1. OBJETIVOS
+# 1. OBJETIVOS
 
 Vamos a reconocer circuitos en serie y calcular los valores de sus resistencias, de la corriente y su voltaje mediante la ley de ohm, asi mismo representar la notacion cientifica mediante prefijos y manejar estos valores en calculos matematicos, habiendo dominado estos temas procederemos a revisar como funciona el metodo APM para deteccion de errores.
 El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley de ohm para, aprender sobre potencia, que es escencial para armar un circuito con seguridad, que sumados a nuestros conocimientos sobre resistencias nos daran una mejor idea de el funcionamiento de estas y como influye el saber manejar este tema con la seguridad de nuestro circuito contra fallas y sobrecalentamientos. Tambien se  incorporara conocimientos en baterias ya que la potencia tambien viene ligada a este tema para el manejo de corriente y eficiencia en las mismas. 
@@ -9,7 +9,7 @@ El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley d
 
 
 
-3. MARCO TEÓRICO (RESUMEN)
+# 3. MARCO TEÓRICO (RESUMEN)
 ![1](https://user-images.githubusercontent.com/105374427/171939011-751fdb88-ce94-401a-ab7a-c44797b85c2e.png)
 
 
@@ -39,7 +39,7 @@ El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley d
 
 ![12](https://user-images.githubusercontent.com/105374427/171939201-0fb579f4-69de-4826-b999-8b1557eeeb43.png)
 
-## 3. EXPLICACION DEL PROCEDIMIENTO
+# 3. EXPLICACION DEL PROCEDIMIENTO
 
 - Para realizar estos ejercicios es necesario 
 	- Saber manejar los temas de voltaje, resistencia y corriente con la ley de omh
@@ -52,7 +52,7 @@ El proximo objetivo sera aplicar nuestrso conocimientos en el manejo de la ley d
 	- Saber reconocer un circuito de alta eficiencia contra uno de eficiencia baja
 
 
-4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+# 4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
         2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 ![image](https://user-images.githubusercontent.com/105374427/171968091-cf0012ca-68cf-445d-bb1c-fcce09e32a12.png)
@@ -281,13 +281,13 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 	
 ![image](https://user-images.githubusercontent.com/105374427/171966504-1d70f839-793f-412d-910f-83d9be8a9e87.png)	
 	
-5. VIDEO
-6. CONCLUSIONES
+# 5. VIDEO
+# 6. CONCLUSIONES
 
 La ley de ohm es escencial para el aprendisaje de la electronica ya que esta es el pilar de nuestros circuitos sean en paralelos o en serie, asi mismo saber reconocer la potencia que puede llegar a dar una bateria o consumir un foco nos ayuda a poder utilizar una resistencia adecuada  la cual no sufra fallos por sobrecalentamiento, el haber aprendido sobre APM nos inicia en el reconocimiento de fallos en componentes, que en el laboratorio seran escenciales para reconocer errores.
 Principalmente el manejar la potencia puede ser de mucha ayuda para encontrar valores de voltaje, resistencia y corriente, asi mismo nos ayuda a saber la eficiencia de una bateria mediante el conocimiento de los ampers-hora que puede llegar a darnos y esto es importante para lo que continua en nuestra especialidad, aun que no es primordial como saber la ley de omh es una buena herramienta para manejar nuestros circuitos. 
 
-8. BIBLIOGRAFÍA
+# 7. BIBLIOGRAFÍA
 FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. México: PEARSON EDUCACIÓN.
 
 
