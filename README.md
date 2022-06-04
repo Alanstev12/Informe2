@@ -282,6 +282,8 @@ Expresa una relación lineal ya que el voltaje y la corriente son directamente p
 ![image](https://user-images.githubusercontent.com/105374427/171966504-1d70f839-793f-412d-910f-83d9be8a9e87.png)	
 	
 # 5. VIDEO
+
+https://youtu.be/btnMSPi9t8s
 # 6. CONCLUSIONES
 
 La ley de ohm es escencial para el aprendisaje de la electronica ya que esta es el pilar de nuestros circuitos sean en paralelos o en serie, asi mismo saber reconocer la potencia que puede llegar a dar una bateria o consumir un foco nos ayuda a poder utilizar una resistencia adecuada  la cual no sufra fallos por sobrecalentamiento, el haber aprendido sobre APM nos inicia en el reconocimiento de fallos en componentes, que en el laboratorio seran escenciales para reconocer errores.
